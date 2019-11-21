@@ -21,8 +21,8 @@ ul{
     }
 
 li{
-    display: inline;
-    block-size: 20px
+    display: inline-block;
+    
     }
     
 li a{  
