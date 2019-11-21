@@ -1,0 +1,41 @@
+
+
+.container{
+    display: grid;
+    gap: 4px;
+    grid-template-columns: 80px 1r 30px;
+    grid-template-rows: 100px 100px 1fr 1fr;
+
+}
+
+body{
+    background-color: lightgray;
+}
+ul{
+    border-style: none;
+    background-color: black;
+    color: lightgray;
+    text-align: center;
+    padding: 20px;
+    
+    }
+
+li{
+    display: inline;
+    block-size: 20px
+    }
+    
+li a{  
+  display: inline-block;
+  padding:20px;
+  color: lightgray;
+   }
+
+
+    .one{
+        grid-row: 1;
+        grid-column: 1;
+
+    }
+
+
