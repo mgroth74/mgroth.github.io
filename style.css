@@ -1,12 +1,12 @@
 
 
-.container{
+/* .container{
     display: grid;
     gap: 4px;
     grid-template-columns: 80px 1r 30px;
     grid-template-rows: 100px 100px 1fr 1fr;
 
-}
+} */
 
 body{
     background-color: lightgray;
@@ -32,10 +32,10 @@ li a{
    }
 
 
-    .one{
+    /* .one{
         grid-row: 1;
         grid-column: 1;
 
-    }
+    } */
 
 
